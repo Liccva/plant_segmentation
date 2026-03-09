@@ -51,7 +51,7 @@ cd web/front
 npm install
 npm start
 ```
-![Интерфейс веб-приложения](.\img\img.png)
+![Интерфейс веб-приложения](./img/img.png)
 
 **Рисунок 1:** Веб-интерфейс
 
@@ -75,10 +75,10 @@ npm start
 
 При сегментации корней лучше себя показала модель `baseline_s_1024`, поэтому она была выбрана.
 
-![Валидация](.\models_training\baseline_s_1024_20260309_012026\val_batch2_pred.jpg)
+![Валидация](./models_training/baseline_s_1024_20260309_012026/val_batch2_pred.jpg)
 
 **Рисунок 2:** Результаты валидационной выборки
 
-![Матриаца](.\models_training\baseline_s_1024_20260309_012026\confusion_matrix_normalized.png)
+![Матриаца](./models_training/baseline_s_1024_20260309_012026/confusion_matrix_normalized.png)
 
 **Рисунок 3:** Нормализованная матрица ошибок

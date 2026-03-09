@@ -1,0 +1,54 @@
+# Виртуальное окружение
+env/
+env39/
+venv/
+.venv/
+
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Секреты и конфигурация
+.env
+*.env
+config.local.py
+
+# База данных
+*.db
+*.sqlite3
+
+# Модели и результаты
+results/
+runs/
+
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+logs/
+
+# Временные файлы
+tmp/
+temp/
+*.tmp
+
+# Jupyter notebooks (если есть)
+.ipynb_checkpoints/
+*.ipynb
+
+# Тестовые данные
+test_data/
+data/
+images/
